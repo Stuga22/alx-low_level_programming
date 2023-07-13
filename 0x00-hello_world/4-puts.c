@@ -1,12 +1,7 @@
-#!/bin/bash
-/**
- * main - this is the main function
- *
- * Return: always 0
- */
-
-int main(void)
+#include <stdio.h>
+int main()
 {
-	puts("\"Programming is like building a multilingual puzzle):
-	return (0);
+    puts(""Programming is like building a multilingual puzzle");
+    getchar();
+    return 0;
 }
