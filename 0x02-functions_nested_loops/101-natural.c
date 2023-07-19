@@ -3,8 +3,9 @@
 * Auth: vincent kip
 */
 #include <stdio.h>
+
 /**
-* main - Lists all the natural numbers below 1024 (excluded)
+* main - List all the natural numbers below one thousand and twenty four
 * that are multiples of 3 or 5.
 *
 * Return: Always 0.
